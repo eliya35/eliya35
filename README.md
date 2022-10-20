@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vincent Eliya
-- 👀 I’m interested in Software invention 
-- 🌱 I’m currently learning Django, React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software invention, inovation and collaboration :sunglasses:
+- 🌱 I’m currently learning new tech and algorithims
+- 💞️ I’m looking to collaborate on Apps power by react and django
 - 📫 How to reach me via whatsaap +254757759443
 
 <!---
